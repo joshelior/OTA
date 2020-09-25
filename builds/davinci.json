@@ -1,15 +1,16 @@
 {
 "error":false,
-"filename": PixelExtended_davinci-10.0-20200824-0843-OFFICIAL.zip,
-"datetime": 1598258580,
-"size":1495295323, 
-"url":"https://sourceforge.net/projects/pixelextended/files/Davinci/PixelExtended_davinci-10.0-20200824-0843-OFFICIAL.zip", 
-"filehash":"bdb5481f79a122466d76e32c4ca9c7f9", 
+"filename": PixelExtended_davinci-10.0-20200924-0208-Fan-Edition.zip,
+"datetime": 1600941480,
+"size":1494547297, 
+"url":"https://sourceforge.net/projects/pixelextendedunofficial/files/PixelExtended_davinci-10.0-20200924-0208-Fan-Edition.zip/download", 
+"filehash":"0ae21861b947d43f336ca52452ccebeb", 
 "version": "10", 
-"id": "bdb5481f79a122466d76e32c4ca9c7f9",
-"donate_url": "https://paypal.me/ArixEloZwei",
-"website_url":"https:\/\/t.me\/arixeloroms",
-"news_url":"Patryk (ArixElo) Zimnicki",
-"maintainer":"https:\/\/t.me/ArixElo",
-"maintainer_url":"https://sourceforge.net/projects/pixelextendedrom/",""
+"id": "0ae21861b947d43f336ca52452ccebeb",
+"donate_url": "https://www.paypal.me/aryan65",
+"website_url":"https://pixelextended.me/",
+"news_url":"https:\/\/t.me\/pexupdates",
+"maintainer":"https://t.me/realnavin",
+"maintainer_url":"https://t.me/fancybuilds",
+"forum_url":""
 }
